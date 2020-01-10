@@ -5,8 +5,15 @@ Technologies are used - PHP, HTML, CSS, and PostgreSQL
 
 
 
+-----------------------------------------------------------------------------------------------------
+
+
 
 ![alt text](https://github.com/dhara2703/DreamHomeRealEstate/blob/master/Screenshots/contactus.png)
+
+
+
+-----------------------------------------------------------------------------------------------------
 
 
 
@@ -15,11 +22,15 @@ Technologies are used - PHP, HTML, CSS, and PostgreSQL
 
 
 
+-----------------------------------------------------------------------------------------------------
+
 
 
 ![alt text](https://github.com/dhara2703/DreamHomeRealEstate/blob/master/Screenshots/login.png)
 
 
+
+-----------------------------------------------------------------------------------------------------
 
 
 
